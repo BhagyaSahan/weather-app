@@ -9,11 +9,13 @@ A modern, sleek weather app that lets you check the current weather and 5-day fo
 - HTML
 - CSS
 - JavaScript
+- OpenWeatherMap API for live weather data
 - Google Fonts & Icons
 - GitHub Pages (for deployment)
 
 ✨ Features
 - Search any city for current weather
+- Real-time weather updates fetched from the OpenWeatherMap API
 - Weather summary (temperature, condition, humidity, wind)
 - Animated icons and clean UI
 - Forecast preview (placeholder)
